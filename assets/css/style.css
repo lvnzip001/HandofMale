@@ -12,6 +12,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  letter-spacing: 0.5px;
 }
 
 a {
@@ -31,6 +32,7 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  letter-spacing: 0.5px;
 }
 
 /*--------------------------------------------------------------
@@ -73,6 +75,14 @@ h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+
+/* .container {
+  padding: 0 20px 0px 20px !important;
+  width: 100% !important;
+  margin: 0 40px;
+
+} */
+
 .back-to-top {
   position: fixed;
   visibility: hidden;
@@ -595,6 +605,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
+  letter-spacing: 1px;
   color: #0f2f57;
 }
 
@@ -689,6 +700,7 @@ section {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
+  letter-spacing: 0.5px;
 }
 
 .counts .count-box a {
@@ -698,6 +710,7 @@ section {
   color: #164682;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
+  letter-spacing: 0.5px;
   transition: ease-in-out 0.3s;
 }
 
@@ -764,6 +777,7 @@ section {
   display: block;
   position: relative;
   font-family: "Poppins", sans-serif;
+  letter-spacing: 0.5px;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1399,6 +1413,7 @@ section {
   color: #0b2341;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
+  letter-spacing: 0.5px;
   margin-bottom: 25px;
 }
 
@@ -1517,6 +1532,7 @@ section {
   font-weight: 500;
   margin: 0 0 10px 28px;
   font-family: "Poppins", sans-serif;
+  letter-spacing: 0.5px;
 }
 
 .faq .faq-item p {
@@ -1724,6 +1740,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
+  letter-spacing: 0.5px;
 }
 
 #footer .footer-top .social-links a {
